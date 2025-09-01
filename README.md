@@ -20,7 +20,7 @@ A simple project to control a 4-pin RGB LED using an ESP32. By adjusting the GPI
 ---
 
 ## Circuit Diagram
-![Mood Light Circuit](./mood-light-circuit-diagram.png)
+![Mood Light Circuit](./mood_light_circuit_diagram.png)
 
 
 
